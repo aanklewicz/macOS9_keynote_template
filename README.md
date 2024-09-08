@@ -1,3 +1,5 @@
+![image](./SampleImage.png)
+
 # Mac OS 9 Keynote Template
 
 You will need to install the Apple Garamond font, which can be found in this repo.
